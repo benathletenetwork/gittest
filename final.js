@@ -1,3 +1,4 @@
 //final file
-console.log("here I am");
+var things = "test;
+console.log("this is just a "+things);
 console.log("here another thing");
