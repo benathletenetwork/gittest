@@ -1,4 +1,4 @@
 <?php
 
 
-echo "nothing to test here, TODO!!!";
+print "nothing to test here, TODO!!!\n";
